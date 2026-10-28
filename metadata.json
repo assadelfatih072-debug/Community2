@@ -1,0 +1,6 @@
+{
+  "name": "EcoMed Quiz - Environmental & Public Health",
+  "description": "Interactive, vibrant 41-question study quiz on environmental health, water sanitation, radiation, noise, and medical entomology with instant audio-visual feedback and explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
